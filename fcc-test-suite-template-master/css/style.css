@@ -1,0 +1,32 @@
+#titile {
+    font-size: 400%;
+    width: 60vmax;
+}
+
+.center{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+#image {
+    max-width: 70%;
+    height: auto;
+    display: block;
+}
+
+@media only screen and (min-width:770px)
+{}    
+
+@media only screen and (min-width:991px)
+{}    
+
+@media only screen and (min-width:1200px)
+{
+    .font{
+    padding: 0px 200px 15 px 200 px;
+}
+}    
+
+@media(oriention:landscape)
+{}
